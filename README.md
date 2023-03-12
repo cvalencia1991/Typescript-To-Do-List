@@ -5,7 +5,7 @@
   <img src="./src/typescript.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>To Do List</b></h3>
 
 </div>
 
